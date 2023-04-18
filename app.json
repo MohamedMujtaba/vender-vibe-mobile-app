@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "front-end",
-    "slug": "front-end",
+    "name": "vender-vibe-mobile-app",
+    "owner": "mj_dev_test",
+    "slug": "vender-vibe-mobile-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
